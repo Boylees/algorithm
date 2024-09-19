@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/array.iml" filepath="$PROJECT_DIR$/.idea/array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/binary search/binary search.iml" filepath="$PROJECT_DIR$/binary search/binary search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/isPerfectSquare/isPerfectSquare.iml" filepath="$PROJECT_DIR$/isPerfectSquare/isPerfectSquare.iml" />
+      <module fileurl="file://$PROJECT_DIR$/searchInsert/searchInsert.iml" filepath="$PROJECT_DIR$/searchInsert/searchInsert.iml" />
+      <module fileurl="file://$PROJECT_DIR$/searchRange/searchRange.iml" filepath="$PROJECT_DIR$/searchRange/searchRange.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sqrtx/sqrtx.iml" filepath="$PROJECT_DIR$/sqrtx/sqrtx.iml" />
+    </modules>
+  </component>
+</project>
