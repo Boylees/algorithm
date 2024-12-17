@@ -2,3 +2,5 @@
 .vscode/launch.json
 .vscode/settings.json
 zuo/
+.idea/
+out/
